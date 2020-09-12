@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/IWP-ValidationForm/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/IWP-ValidationForm/static/js/main.2dfc42f6.chunk.js",
+    "main.js.map": "/IWP-ValidationForm/static/js/main.2dfc42f6.chunk.js.map",
+    "runtime-main.js": "/IWP-ValidationForm/static/js/runtime-main.3930c837.js",
+    "runtime-main.js.map": "/IWP-ValidationForm/static/js/runtime-main.3930c837.js.map",
+    "static/js/2.42d44309.chunk.js": "/IWP-ValidationForm/static/js/2.42d44309.chunk.js",
+    "static/js/2.42d44309.chunk.js.map": "/IWP-ValidationForm/static/js/2.42d44309.chunk.js.map",
+    "index.html": "/IWP-ValidationForm/index.html",
+    "precache-manifest.df314e7c785bdf1413e3d59db28064a5.js": "/IWP-ValidationForm/precache-manifest.df314e7c785bdf1413e3d59db28064a5.js",
+    "service-worker.js": "/IWP-ValidationForm/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/IWP-ValidationForm/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.42d44309.chunk.js.LICENSE.txt": "/IWP-ValidationForm/static/js/2.42d44309.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3930c837.js",
+    "static/js/2.42d44309.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.2dfc42f6.chunk.js"
+  ]
+}
